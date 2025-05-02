@@ -1,3 +1,6 @@
+#space {
+    height: 3rem;
+}
 #carousel-example {
     width: 100%;
     max-width: 50rem;
@@ -8,4 +11,9 @@
 #carousel-example img {
     height: 30rem;
     object-fit: cover;
+}
+
+#newsletter-signup {
+    max-width: 30rem;
+    margin: 4rem auto;
 }
